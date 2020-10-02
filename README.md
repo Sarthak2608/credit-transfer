@@ -1,2 +1,2 @@
-# credit-transfer
-this project is only for practice purpose
+# Credit-Transfer
+This project is only for practice purpose
